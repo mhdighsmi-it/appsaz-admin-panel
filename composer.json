@@ -1,0 +1,17 @@
+{
+    "name": "mhdighsmi/appsaz-admin-panel",
+    "description": "style panel wordpress",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "mhdighsmi-it",
+            "email": "66156653+mhdighsmi-it@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{"Inc\\":"./includes"}
+    }
+}
