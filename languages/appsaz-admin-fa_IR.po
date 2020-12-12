@@ -1,0 +1,351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Appsaz-Admin-Interface 1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-05 16:29:28+00:00\n"
+"PO-Revision-Date: 2020-06-28 10:09+0000\n"
+"Last-Translator: \n"
+"Language-Team: Persian\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_IR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Parser: loco_parse_po"
+
+#. Plugin Name of the plugin/theme
+#: includes/admin-side.php:118
+msgid "Appsaz-Admin-Interface"
+msgstr "پنل مدیریت اپ ساز"
+
+#: Adminpanel_appsaz:118
+msgid "setting"
+msgstr "متن"
+
+msgid "welcome to"
+msgstr "خوش آمدید به"
+
+msgid "Download The App"
+msgstr "دانلود اپ از"
+
+msgid "Single Page Site Settings"
+msgstr "تنظیمات سایت تک صفحه ای"
+
+msgid "Enter the app name"
+msgstr "عنوان اپلیکیشن را وارد کنید"
+
+msgid "app name"
+msgstr "عنوان اپلیکیشن"
+
+msgid "Upload Logo App"
+msgstr "آپلود لوگو اپلیکیشن"
+
+msgid "Upload screenshot of App Home screen"
+msgstr "آپلود اسکرین شات صفحه اصلی اپلیکیشن"
+
+msgid "Suggested size: 750 * 1200"
+msgstr "سایز پیشنهادی 750* 1200"
+
+msgid "App description text"
+msgstr "توضیحات اپلیکیشن"
+
+msgid "Here's a description of the app and what it does for users"
+msgstr "توضیحات کاملی از اپلیکیشن"
+
+msgid "Download link from Google Play"
+msgstr "لینک دانلود از گوگل پلی"
+
+msgid "Enter the download link in full"
+msgstr "لینک دانلود را به صورت کامل وارد کنید."
+
+msgid "Download link from AppStore"
+msgstr "لینک دانلود از اپ استور"
+
+msgid "OUR APP FEATURES"
+msgstr "ویژگی های برنامه ما"
+
+msgid "App description text all"
+msgstr "متن  کامل توضیحات برنامه "
+
+msgid "Here's a all description of the app and what it does for users"
+msgstr ""
+"در اینجا توضیحات کاملی از برنامه و کارهایی که برای کاربران انجام می شود "
+"آورده شده است"
+
+msgid "Responsive Design"
+msgstr "طراحی تعاملی"
+
+msgid "Responsive Design description"
+msgstr "توضیحات طراحی پاسخگو"
+
+msgid "Easy To Customize"
+msgstr "آسان برای شخصی سازی"
+
+msgid "Easy To Customize description"
+msgstr "آسان برای سفارشی کردن توضیحات"
+
+msgid "Excellent Performance"
+msgstr "اجرای فوق العاده"
+
+msgid "Excellent Performance description"
+msgstr "توضیحات عالی عملکرد"
+
+msgid "GPS Tracking"
+msgstr "ردیابی GPS"
+
+msgid "GPS Tracking description"
+msgstr "توضیحات ردیابی GPS"
+
+msgid "Watch Promo Video"
+msgstr "تماشای فیلم تبلیغاتی"
+
+msgid "Upload Watch Promo Video"
+msgstr "بارگیری فیلم تبلیغاتی تماشا"
+
+msgid "APPS SCREENSHOT"
+msgstr "اسکرین شات های اپلیکیشن"
+
+msgid "APPS SCREENSHOT description"
+msgstr "توضیحات صفحه برنامه ها"
+
+msgid "screenshot 1"
+msgstr "اسکرین 1"
+
+msgid "screenshot 2"
+msgstr "اسکرین 2"
+
+msgid "screenshot 3"
+msgstr "اسکرین 3"
+
+msgid "screenshot 4"
+msgstr "اسکرین 4"
+
+msgid "screenshot 5"
+msgstr "اسکرین 5"
+
+msgid "screenshot 6"
+msgstr "اسکرین  6"
+
+msgid "GET THE APP"
+msgstr "دانلود اپ از"
+
+msgid "FAQ"
+msgstr "سوالات متداول"
+
+msgid "FAQ 1"
+msgstr "سوالات متداول اول"
+
+msgid "FAQ 2"
+msgstr "سوالات متداول دوم"
+
+msgid "FAQ 3"
+msgstr "سوالات متداول سوم"
+
+msgid "FAQ 4"
+msgstr "سوالات متداول چهارم"
+
+msgid "FAQ 5"
+msgstr "سوالات متداول پنجم"
+
+msgid "FAQ description 1"
+msgstr "پاسخ سوالات متداول اول"
+
+msgid "FAQ description 2"
+msgstr "پاسخ سوالات متداول دوم"
+
+msgid "FAQ description 3"
+msgstr "پاسخ سوالات متداول سوم"
+
+msgid "FAQ description 4"
+msgstr "پاسخ سوالات متداول چهارم"
+
+msgid "FAQ description 5"
+msgstr "پاسخ سوالات متداول پنجم"
+
+msgid "GET IN TOUCH"
+msgstr "تماس با ما"
+
+msgid "Enter Email"
+msgstr "ایمیل خود را وارد کنید"
+
+msgid "Enter Name"
+msgstr "نام خود را وارد کنید"
+
+msgid "Message"
+msgstr "در خواست خود را وارد کنید "
+
+msgid "SUBMIT"
+msgstr "ارسال"
+
+msgid "Office Location"
+msgstr "آدرس "
+
+msgid "Phone Number"
+msgstr "تلفن "
+
+msgid "Email Address"
+msgstr "ایمیل"
+
+msgid "App Feature"
+msgstr "امکانات اپلیکیشن"
+
+msgid "Promo Video"
+msgstr "فیلم تبلیغاتی"
+
+msgid "Apps Screenshot"
+msgstr "اسکرین شات ها "
+
+msgid "Download"
+msgstr "دانلود اپلیکیشن"
+
+msgid "Get In Touch"
+msgstr "تماس با ما"
+
+msgid "Enter Phone"
+msgstr "شماره موبایل خود را وارد کنید"
+
+msgid "message contact us"
+msgstr "پیام های ارتباط با ما"
+
+msgid "add message contact us"
+msgstr "افزودن پیام"
+
+msgid "add new message contact us"
+msgstr "افزودن پیام جدید"
+
+msgid "new contact us"
+msgstr "پیام جدید"
+
+msgid "show"
+msgstr "نمایش"
+
+msgid "edit"
+msgstr "ویرایش"
+
+msgid "search contact us"
+msgstr "جستجوی پیام دریافتی"
+
+msgid "not found contact us"
+msgstr "پیامی وجود ندارد"
+
+msgid "empty"
+msgstr "هیچ چیزی اینجا نیست"
+
+msgid "show first section"
+msgstr "بخش اول"
+
+msgid "if selected show first section"
+msgstr "برای نمایش بخش اول انتخاب کنید"
+
+msgid "show second section"
+msgstr "ویژگی های برنامه ما"
+
+msgid "if selected show second section"
+msgstr "برای نمایش بخش دوم انتخاب کنید"
+
+msgid "show Third section"
+msgstr "باکس فیلم"
+
+msgid "if selected show Third section"
+msgstr "برای نمایش بخش سوم انتخاب کنید"
+
+msgid "show Fourth section"
+msgstr "اسکرین شات های اپلیکیشن"
+
+msgid "if selected show Fourth section"
+msgstr "برای نمایش بخش چهارم انتخاب کنید"
+
+msgid "show Fifth section"
+msgstr "دانلود اپ از"
+
+msgid "if selected show Fifth section"
+msgstr "برای نمایش بخش پنجم انتخاب کنید"
+
+msgid "show Sixth section"
+msgstr "سوالات متداول"
+
+msgid "if selected show Sixth section"
+msgstr "برای نمایش بخش ششم انتخاب کنید"
+
+msgid "show Seventh section"
+msgstr "تماس با ما"
+
+msgid "if selected show Seventh section"
+msgstr "برای نمایش بخش هفتم انتخاب کنید"
+
+msgid "Export Settings <span>Save the below contents to a text file."
+msgstr "تنظیمات خروجی <span>محتوای زیر را در فایل تکست ذخیره کنید</span>"
+
+msgid "Import Settings"
+msgstr "تنظیمات ورودی"
+
+msgid "Settings Imported."
+msgstr "تنظیمات وارد شدند"
+
+msgid "Welcome to the Settings Panel Settings"
+msgstr "به تنظیمات پنل اپ ساز خوش آمدید "
+
+msgid "Customize menu management"
+msgstr "مدیریت منوها"
+
+msgid "Import-Export Settings"
+msgstr "تنظیمات خروجی / ورودی "
+
+msgid "Click here"
+msgstr "کلیک کن"
+
+msgid "to customize who can access to all menu items."
+msgstr "برای شخصی سازی چه کسی  می تواند به همه موارد منو دسترسی پیدا کند."
+
+msgid "By default, all menu items will be shown to administrator users."
+msgstr "به طور پیش فرض ، تمام موارد منو برای مدیران نشان داده می شود."
+
+msgid "Terms and Conditions"
+msgstr "قوانین و مقررات"
+
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+msgid "Manage Admin Menu"
+msgstr "تنظمات منو"
+
+msgid "You don't have enough permission to access this page."
+msgstr "عدم دسترسی"
+
+msgid "Rename Title"
+msgstr "تغییر نام"
+
+msgid "Choose Icon"
+msgstr "انتخاب آیکون"
+
+msgid "Separator"
+msgstr "جدا کننده"
+
+msgid "Hide menu for"
+msgstr "مخفی"
+
+msgid "Loading..."
+msgstr "صبر کنید..."
+
+msgid "Import and Export Settings"
+msgstr "برون بری و درون ریزی"
+
+msgid "Settings Imported!"
+msgstr "تنظمات درون ریزی"
+
+msgid "You are importing empty data or wrong data format."
+msgstr "دیتای نادرست یا خالی"
+
+msgid "Export Settings"
+msgstr "تنظمات درون ریزی"
+
+msgid "Save the below contents to a text file."
+msgstr ""
+
+msgid "appsaz-admin-panel"
+msgstr "پنل مدیریت"
+
+msgid "Appsazadmin"
+msgstr "پنل مدیریت"

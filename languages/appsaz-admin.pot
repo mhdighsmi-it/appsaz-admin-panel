@@ -1,0 +1,23 @@
+# Copyright (C) 2017 WooCommerce Multi-Step Checkout
+# This file is distributed under the same license as the WooCommerce Multi-Step Checkout package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Appsaz-Admin-Interface 1.2\n"
+"POT-Creation-Date: 2017-12-05 16:29:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+
+#. Plugin Name of the plugin/theme
+#: includes/admin-side.php:118
+msgid "Appsaz-Admin-Interface"
+msgstr ""
+
+#: /Adminpanel_appsaz:118
+msgid "setting"
+msgstr ""
+
